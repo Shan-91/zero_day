@@ -1,1 +1,1 @@
-my 0x00-vagrant
+vagrant 2
